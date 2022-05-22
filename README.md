@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @theseal12
+- 👀 I’m interested in mathematics, physics and computer science (altough I also like seals)
+- 🌱 I’m currently learning web development
+- 💞️ I’m looking to collaborate on making websites with different buisnesses
+- 📫 Reach me through this mail ...
